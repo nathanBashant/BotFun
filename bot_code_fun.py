@@ -48,6 +48,11 @@ y5_gen_choice = 645
 #notes:store email and pass for all soundcloud accounts
 #create thousands of google accounts and make them all do different things
 #train bots and age them to create and army
+
+#idea: gmail bot that sends myself and email of whatever photo,pdf,etc. is needed
+
+
+
 #idea: have multiple bots try to gain social media following and then have my bots promote their stuff
 #and they all grow anyways
 #visual:      social media bot (1000 followers) ----- social media bot (1000 followers)
@@ -110,5 +115,65 @@ for i in range(n):
     pg.hotkey('ctrl','w')
     
 
-
+'''
 #pg.mouseInfo()
+#link
+378
+871
+
+#create
+243
+576
+
+#first
+662
+419
+
+#last
+841
+427
+
+#user
+677
+480
+
+#pass
+640
+609
+
+832
+608
+
+#next
+910
+772
+
+#month
+656
+609
+
+657
+716
+
+#day
+767
+614
+
+#year
+889
+615
+
+#gender
+750
+692
+
+749
+745
+
+#scroll all the way down
+
+#agree
+895
+893
+
+'''
